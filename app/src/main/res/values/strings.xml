@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tracking Location</string>
+    <string name="app_owner">From E-Li(radhey)</string>
+    <string name="click_track">Click on globe to start tracking</string>
+    <string name="start">START</string>
+    <string name="history">Track History</string>
+    <string name="timmer">00:00:00:00</string>
+    <string name="go">GO</string>
+    <string name="finish">FINISH</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">PLACE_YOUR_GOOGLE_MAP_KEY_HERE</string>
+    <string name="firebase">Firebase</string>
+    <string name="local">Local</string>
+    <string name="delete_all">Delete All</string>
+    <string name="close">Close</string>
+    <string name="SHARED_PREFERENCES_NAME">MAP_ROUTS</string>
+    <string name="delete_diolge">Do you want to CLEAR all data?</string>
+    <string name="yes">Yaa</string>
+    <string name="no">Naa</string>
+    <string name="empty_message">Empty History!</string>
+</resources>
