@@ -19,7 +19,8 @@ Require Dependencies :-
            
 Note :-
         1. Go to `Tracking_Location/app/src/main/res/values/strings.xml` and place your `Google Map Api` inside 
-           '<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">PLACE_YOUR_GOOGLE_MAP_KEY_HERE</string>'
+           `<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">PLACE_YOUR_GOOGLE_MAP_KEY_HERE</string>`
+           
         2. Before usig Firebase storage please make sure you add firebase database in project (if don't know how :-`Tools` > `Realtime Database` follow instructions).
            
       
